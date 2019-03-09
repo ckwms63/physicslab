@@ -1,0 +1,49 @@
+[0m[0K]0;:/c/Users/Caroline/CAROLINE/2. Prog - R/R - new package/physicslab[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package/ph[0Ky
+sicslab[0m[0K[?25h[?25l
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h.[0K[?25l
+[0K[?25h]0;:/c/Users/Caroline/CAROLINE/2. Prog - R/R - new package[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package[0m[0K
+$[0K[3G[?25h[?25l$ m[0K[?25hv[0K[6G[?25l$ mv p[0K[?25hh[0Kysicslab[0K[17G[?25l$ mv physicslab t[0K[?25hm[0Kp[0K[?25l
+[0K[?25hmv:[0K[5G[?25lmv: cannot move 'physicslab' to 'tmp': Device or resource bus[0Ky
+[0K
+[0K[?25h[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25hphysicslab  physicslab_0.1.0.tar.gz[0K[?25l
+[0K[?25h[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hl[0Ko[0Kn[0Ke[0K[13G[?25l$ git clone g[0K[?25hi[0Kt[0K[?25l$ git clone gi[0K[?25h[?25l$ git clone g[0K[?25h[?25l$ git clone[0K[13G[?25h[?25l$ git clone h[0K[?25ht[0Kt[0Kp[0Ks[0K:[0K/[0K/[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Kc[0Ko[0Km[0K/[0K[3G[?25l$ kgit clone https://github.com/[0K[4G[?25h[?25l$ git clone https://github.com/[0K[3G[?25h[?25l$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25hphysicslab  physicslab_0.1.0.tar.gz[0K[?25l
+[0K[?25h[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package[0m[0K
+$[0K[3G[?25h[?25l$ m[0K[?25hv[0K[6G[?25l$ mv p[0K[?25hh[0Ky[0Ks[0Ki[0Kc[0Ks[0Kl[0Ka[0Kb[0K[17G[?25l$ mv physicslab t[0K[?25hm[0Kp[0K[?25l
+[0K[?25hmv: cannot move[0K[17G[?25lmv: cannot move 'physicslab' to 'tmp': Device or resource bus[0Ky
+[0K
+[0K[?25h[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+physicslab  physicslab_0.1.0.tar.gz[0K
+[0K[?25h[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd p[0K[?25hh[0Ky[0Ks[0Ki[0Kc[0Ks[0K[?25l$ cd physic[0K[?25h[?25l$ cd physi[0K[?25h[?25l$ cd phys[0K[?25h[?25l$ cd phy[0K[?25h[?25l$ cd ph[0K[?25h[?25l$ cd p[0K[?25h[?25l$ cd[0K[6G[?25h[5G[6G[?25l$ cd c[0K[?25h[?25l$ cd[0K[6G[?25h[?25l$ cd p[0K[?25hh[0Ky[0Ks[0Kicslab[0K[?25l
+[0K[?25h]0;:/c/Users/Caroline/CAROLINE/2. Prog - R/R - new package/physicslab[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package/ph[0Ky
+sicslab[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[6G[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25hDESCRIPTION  NAMESPACE  R  man  physicslab.Rproj[0K[?25l
+[0K[?25h[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package/ph[0Ky
+sicslab[0m[0K[?25h[?25l
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/Caroline/CAROLIN[0KE[?25l
+/2. Prog - R/R - new package/physicslab/.git/[0K
+[0K[?25h[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package/ph[0Ky
+sicslab[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25hDESCRIPTION  NAMESPACE  R  man  physicslab.Rproj[0K[?25l
+[0K[?25h[?25l
+[0;32mCaroline@Carolines [0;35m [0;33m~/CAROLINE/2. Prog - R/R - new package/ph[0Ky
+sicslab[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add D[0K[?25hE[0KSCRIPTION^M[0K[25G[24G[?25l$ git add DESCRIPTION[0K[?25h[?25l$ git add DESCRIPTIO[0K[?25h[?25l$ git add DESCRIPTI[0K[?25h[?25l$ git add DESCRIP[0K[?25h[?25l$ git add DESCR[0K[?25h[?25l$ git add DESC[0K[?25h[?25l$ git add DES[0K[?25h[?25l$ git add DE[0K[?25h[?25l$ git add D[0K[?25h[?25l$ git add[0K[11G[?25h[?25l$ git add .[0K[?25h

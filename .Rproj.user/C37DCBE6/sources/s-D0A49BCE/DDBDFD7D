@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552154149485.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1633998056",
+    "id" : "DDBDFD7D",
+    "lastKnownWriteTime" : 1552154143,
+    "last_content_update" : 1552154143,
+    "path" : "C:/Users/Caroline/CAROLINE/2. Prog - R/R - new package/physicslab/NAMESPACE",
+    "project_path" : "NAMESPACE",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_namespace"
+}
